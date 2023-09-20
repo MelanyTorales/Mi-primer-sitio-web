@@ -1,3 +1,28 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(235, 166, 177)
+}
+h2 {
+    color: rgb(173, 61, 125);
+}
+
+.mate {
+  background-image: url(Images/mate.jpg)
+}
+.mate {
+   border: solid 9px rgb(124, 180, 245);
+}
+.gossip img{
+  display: inline-block;
+  border: solid 9px rgb(240, 196, 221);
+  height: 270px;
+  width: 480px;
+  margin-bottom: 20px;
+}
+.vidgossip {
+  border: dotted 9px rgb(236, 207, 42);
+  margin-bottom: 10px;
+}
+nav ul a{
+display: inline-block;
+display: flex;
 }
